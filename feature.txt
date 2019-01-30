@@ -1,1 +1,2 @@
 Added feature file
+Added new line
